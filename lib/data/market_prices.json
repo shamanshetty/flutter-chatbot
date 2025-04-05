@@ -1,0 +1,53 @@
+{
+  "updated_date": "2025-04-05",
+  "disclaimer": "Prices vary by location and quality. Please check with your local APMC for exact rates.",
+
+  "crops": {
+    "rice": {
+      "msp": 1940,
+      "market_rate": {
+        "average": 1890,
+        "min": 1750,
+        "max": 2100
+      },
+      "regional_rates": {
+        "punjab": 1960,
+        "haryana": 1950,
+        "uttar_pradesh": 1920,
+        "west_bengal": 1880,
+        "bihar": 1850,
+        "andhra_pradesh": 1890
+      }
+    },
+    "wheat": {
+      "msp": 2125,
+      "market_rate": {
+        "average": 2160,
+        "min": 2000,
+        "max": 2300
+      },
+      "regional_rates": {
+        "punjab": 2200,
+        "haryana": 2180,
+        "uttar_pradesh": 2150,
+        "madhya_pradesh": 2120,
+        "rajasthan": 2100
+      }
+    },
+    "cotton": {
+      "msp": 6380,
+      "market_rate": {
+        "average": 6500,
+        "min": 6100,
+        "max": 7200
+      },
+      "regional_rates": {
+        "gujarat": 6700,
+        "maharashtra": 6600,
+        "punjab": 6550,
+        "telangana": 6450,
+        "andhra_pradesh": 6400
+      }
+    }
+  }
+}

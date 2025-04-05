@@ -1,0 +1,35 @@
+{
+  "rice": {
+    "varieties": ["MTU 7029", "IR 64", "Swarna", "Samba Mahsuri", "Pusa Basmati 1"],
+    "seed_rate": "60-80 kg/hectare",
+    "msp": 1940,
+    "fertilizer": "N:P:K - 120:60:60 kg/ha",
+    "season": ["kharif", "rabi (some regions)"],
+    "water_requirement": "High",
+    "major_pests": ["Stem borer", "Leaf folder", "Brown plant hopper"],
+    "major_diseases": ["Blast", "Bacterial leaf blight", "Sheath blight"],
+    "govt_schemes": ["PM-KISAN", "PMFBY", "NFSM"]
+  },
+  "wheat": {
+    "varieties": ["HD 2967", "PBW 343", "DBW 17", "HD 3086", "WH 1105"],
+    "seed_rate": "100-125 kg/hectare",
+    "msp": 2125,
+    "fertilizer": "N:P:K - 120:60:40 kg/ha",
+    "season": ["rabi"],
+    "water_requirement": "Medium",
+    "major_pests": ["Aphids", "Termites", "Pink stem borer"],
+    "major_diseases": ["Rust", "Powdery mildew", "Loose smut"],
+    "govt_schemes": ["PM-KISAN", "PMFBY", "NFSM"]
+  },
+  "cotton": {
+    "varieties": ["Bt Cotton hybrids", "Suraj", "LRA 5166", "MCU 5", "NH 615"],
+    "seed_rate": "2.0-2.5 kg/hectare",
+    "msp": 6380,
+    "fertilizer": "N:P:K - 120:60:60 kg/ha",
+    "season": ["kharif"],
+    "water_requirement": "Medium",
+    "major_pests": ["Bollworms", "Whitefly", "Thrips", "Jassids"],
+    "major_diseases": ["Wilt", "Root rot", "Leaf curl virus"],
+    "govt_schemes": ["PM-KISAN", "PMFBY", "Technology Mission on Cotton"]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "PM-KISAN": {
+    "full_name": "Pradhan Mantri Kisan Samman Nidhi",
+    "benefit": "₹6,000 per year in three equal installments of ₹2,000 each",
+    "eligibility": "All small and marginal farmers with landholding up to 2 hectares",
+    "registration": "Register at PM-KISAN portal or through Common Service Centers",
+    "documents_required": ["Aadhaar Card", "Land Records", "Bank Account Details"],
+    "helpline": "1800-115-526",
+    "website": "pmkisan.gov.in"
+  },
+  "PMFBY": {
+    "full_name": "Pradhan Mantri Fasal Bima Yojana",
+    "benefit": "Crop insurance with minimal premium rates: 1.5% for rabi, 2% for kharif crops",
+    "eligibility": "All farmers growing notified crops",
+    "registration": "Through banks, insurance companies, or CSCs",
+    "documents_required": ["Bank Account Details", "Land Records", "Crop Sowing Certificate"],
+    "helpline": "1800-180-1551",
+    "website": "pmfby.gov.in"
+  },
+  "KCC": {
+    "full_name": "Kisan Credit Card",
+    "benefit": "Credit up to ₹3 lakh at 4% interest rate (with interest subvention)",
+    "eligibility": "All farmers, tenant farmers, sharecroppers",
+    "registration": "Apply at local banks or through online banking portals",
+    "documents_required": ["ID Proof", "Address Proof", "Land Records", "Passport-size Photos"],
+    "helpline": "Contact your bank's customer care",
+    "website": "Your bank's website"
+  }
+}
